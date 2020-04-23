@@ -1,0 +1,9 @@
+{
+  "designVersions": [
+    "1.0.0"
+  ],
+  "activeFlag": false,
+  "description": "This is a form use to test using SCM and Git to enable multiple developers to work on the same form at the same time",
+  "name": "SCM Test Form",
+  "nameNormalized": "scm-test-form"
+}

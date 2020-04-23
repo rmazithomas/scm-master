@@ -1,0 +1,57 @@
+{
+  "activeFlag": false,
+  "configJson": "",
+  "releaseVersion": "19.11.2",
+  "initialVersion": "1.0-develop",
+  "initialLibraryVersion": "1.0.0",
+  "scmFlag": true,
+  "readOnlyFlag": false,
+  "forms": [
+    "scm-test-form"
+  ],
+  "receipts": [],
+  "components": [],
+  "templates": [],
+  "libraries": [
+    "scm-master-library"
+  ],
+  "libraryIncludes": [
+    {
+      "nameNorm": "cards",
+      "sequenceNumber": 3,
+      "type": "Release",
+      "version": "19.11.2"
+    },
+    {
+      "nameNorm": "core",
+      "sequenceNumber": 4,
+      "type": "Release",
+      "version": "19.11.2"
+    },
+    {
+      "nameNorm": "navigation",
+      "sequenceNumber": 6,
+      "type": "Release",
+      "version": "19.11.2"
+    },
+    {
+      "nameNorm": "identity",
+      "sequenceNumber": 5,
+      "type": "Release",
+      "version": "19.11.2"
+    },
+    {
+      "nameNorm": "cbils-templates",
+      "sequenceNumber": 1,
+      "type": "Organization",
+      "version": "1.0.0"
+    },
+    {
+      "nameNorm": "scm-master-library",
+      "sequenceNumber": 2,
+      "type": "Project",
+      "version": "1.0.0"
+    }
+  ],
+  "description": "SCM Master"
+}
