@@ -1062,7 +1062,6 @@
 									"rows": [
 										[
 											{
-												"htmlLabel": "<h3>What would you like to do next?</h3>",
 												"id": "saveNextStepsHeading_2",
 												"subId": "ef74a7d3a8ad4be6b629d5a33a66b82f",
 												"type": "text-display"
@@ -1342,7 +1341,6 @@
 									"rows": [
 										[
 											{
-												"htmlLabel": "<h3>What would you like to do next?</h3>",
 												"id": "saveNextStepsHeading",
 												"subId": "ef74a7d3a8ad4be6b629d5a33a66b82f",
 												"type": "text-display"
@@ -1624,7 +1622,6 @@
 									"rows": [
 										[
 											{
-												"htmlLabel": "<h3>What would you like to do next?</h3>",
 												"id": "saveNextStepsHeading_1",
 												"subId": "ef74a7d3a8ad4be6b629d5a33a66b82f",
 												"type": "text-display"
@@ -2915,6 +2912,45 @@
 																				"md": 6
 																			},
 																			"type": "decimal"
+																		}
+																	]
+																],
+																"type": "section-2"
+															}
+														],
+														[
+															{
+																"exclude": false,
+																"hasCustomId": true,
+																"htmlLabel": "Feature1 Branch",
+																"id": "feature1Branch",
+																"label": "Feature1 Branch",
+																"path": "",
+																"rows": [
+																	[
+																		{
+																			"exclude": false,
+																			"id": "dropdown_1",
+																			"path": "Dropdown_1",
+																			"properties": {},
+																			"type": "dropdown"
+																		}
+																	],
+																	[
+																		{
+																			"exclude": false,
+																			"id": "radioButtonGroup_1",
+																			"path": "RadioButtonGroup_1",
+																			"properties": {},
+																			"type": "radio-button-group"
+																		}
+																	],
+																	[
+																		{
+																			"exclude": false,
+																			"id": "checkbox_1",
+																			"path": "Checkbox_1",
+																			"type": "checkbox"
 																		}
 																	]
 																],
